@@ -1,0 +1,17 @@
+{
+    "deathScreen.title": "",
+    "deathScreen.score": "",
+    "deathScreen.score.value": "",
+
+    "item.modoru.volleyball": "Voley Bel",
+    "item.modoru.oak_stump": "Oak Stumpz",
+
+    "death.attack.frozen.player": "froez 2 death, fighting",
+
+    "action.light_change.enter.title": "Rotate da mouse wheel",
+    "action.light_change.enter.subtitle": "Prez Shif + F 2 exit",
+    "action.light_change.level.title": "Level ",
+    "action.light_change.level.subtitle": "Prez Shif + F 2 exit",
+    "action.light_change.exit.title": "Exit frum editin...",
+    "action.light_change.exit.subtitle": ""
+}

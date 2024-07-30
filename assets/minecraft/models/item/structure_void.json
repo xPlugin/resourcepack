@@ -1,0 +1,50 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/structure_void"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1000
+            },
+            "model": "block/street_light_big"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "block/transit_fence"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "block/sewer_cover_smoke"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003
+            },
+            "model": "block/planks_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004
+            },
+            "model": "block/planks_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005
+            },
+            "model": "block/lobby_log"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006
+            },
+            "model": "block/oak_stump"
+        }
+    ]
+}

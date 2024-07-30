@@ -1,0 +1,17 @@
+{
+    "deathScreen.title": "",
+    "deathScreen.score": "",
+    "deathScreen.score.value": "",
+
+    "item.modoru.volleyball": "Волейбольний м'яч",
+    "item.modoru.oak_stump": "Дубовий пень",
+
+    "death.attack.frozen.player": "замерз на смерть, борючись з",
+
+    "action.light_change.enter.title": "Крутіть коліщатко миші",
+    "action.light_change.enter.subtitle": "Натисніть Shift + F для виходу",
+    "action.light_change.level.title": "Рівень ",
+    "action.light_change.level.subtitle": "Натисніть Shift + F для виходу",
+    "action.light_change.exit.title": "Вихід из редагування...",
+    "action.light_change.exit.subtitle": ""
+}

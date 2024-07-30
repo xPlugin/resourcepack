@@ -1,0 +1,17 @@
+{
+    "deathScreen.title": "",
+    "deathScreen.score": "",
+    "deathScreen.score.value": "",
+
+    "item.modoru.volleyball": "Волейбольный мяч",
+    "item.modoru.oak_stump": "Дубовый пень",
+
+    "death.attack.frozen.player": "замёрз насмерть, сражаясь с",
+
+    "action.light_change.enter.title": "Вращайте колёсико мыши",
+    "action.light_change.enter.subtitle": "Нажмите Shift + F для выхода",
+    "action.light_change.level.title": "Уровень ",
+    "action.light_change.level.subtitle": "Нажмите Shift + F для выхода",
+    "action.light_change.exit.title": "Выход из редактирования...",
+    "action.light_change.exit.subtitle": ""
+}

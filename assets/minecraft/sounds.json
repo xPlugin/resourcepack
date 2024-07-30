@@ -1,0 +1,90 @@
+{
+    "custom.player.teleport": {
+        "category": "master",
+        "sounds": [
+            "custom/player/teleport"
+        ]
+    },
+    "custom.player.heartbeat": {
+        "category": "master",
+        "sounds": [
+            "custom/player/heartbeat"
+        ]
+    },
+    "custom.player.cough": {
+        "category": "master",
+        "sounds": [
+            "custom/player/cough"
+        ]
+    },
+    "custom.player.running": {
+        "category": "master",
+        "sounds": [
+            "custom/player/running"
+        ]
+    },
+
+    "custom.gui.error": {
+        "category": "master",
+        "sounds": [
+            "custom/gui/error"
+        ]
+    },
+    "custom.gui.notify": {
+        "category": "master",
+        "sounds": [
+            "custom/gui/notify"
+        ]
+    },
+    "custom.gui.success": {
+        "category": "master",
+        "sounds": [
+            "custom/gui/success"
+        ]
+    },
+    "custom.gui.click_enabled": {
+        "category": "master",
+        "sounds": [
+            "custom/gui/click_enabled"
+        ]
+    },
+    "custom.gui.click_disabled": {
+        "category": "master",
+        "sounds": [
+            "custom/gui/click_disabled"
+        ]
+    },
+
+    "custom.sfx.wear": {
+        "category": "master",
+        "sounds": [
+            "custom/sfx/wear"
+        ]
+    },
+    "custom.misc.colour": {
+        "category": "master",
+        "sounds": [
+            "custom/misc/colour"
+        ]
+    },
+    "custom.misc.doorbell": {
+        "category": "master",
+        "sounds": [
+            "custom/misc/doorbell"
+        ]
+    },
+
+    "custom.music.shop_ambient": {
+        "category": "music",
+        "sounds": [
+            "custom/music/shop_ambient"
+        ]
+    },
+
+    "custom.entity.ball.punch": {
+        "category": "music",
+        "sounds": [
+            "custom/entity/ball/punch"
+        ]
+    }
+}

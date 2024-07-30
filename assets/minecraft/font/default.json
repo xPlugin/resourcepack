@@ -1,0 +1,441 @@
+{
+    "providers": [
+        {
+            "chars": [
+                "\uE100"
+            ],
+            "file": "font/gui/dark_overlay.png",
+            "ascent": 11520,
+            "height": 15360,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE101"
+            ],
+            "file": "font/gui/light_overlay.png",
+            "ascent": 11520,
+            "height": 15360,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE102"
+            ],
+            "file": "font/gui/logo.png",
+            "ascent": 12,
+            "height": 24,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE103"
+            ],
+            "file": "font/icon/lobby.png",
+            "ascent": 7,
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE104"
+            ],
+            "file": "font/icon/world.png",
+            "ascent": 7,
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE105"
+            ],
+            "file": "font/icon/nether.png",
+            "ascent": 7,
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE106"
+            ],
+            "file": "font/icon/end.png",
+            "ascent": 7,
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE107"
+            ],
+            "file": "font/icon/limbo.png",
+            "ascent": 7,
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE108"
+            ],
+            "file": "font/icon/people.png",
+            "ascent": 11,
+            "height": 12,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE109"
+            ],
+            "file": "font/icon/ping.png",
+            "ascent": 11,
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE110"
+            ],
+            "file": "font/icon/tps.png",
+            "ascent": 11,
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE111"
+            ],
+            "file": "font/icon/tech.png",
+            "ascent": 7,
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE112"
+            ],
+            "file": "font/icon/admin.png",
+            "ascent": 7,
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE113"
+            ],
+            "file": "font/icon/curator.png",
+            "ascent": 7,
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE114"
+            ],
+            "file": "font/icon/agent.png",
+            "ascent": 7,
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE115"
+            ],
+            "file": "font/icon/intern_agent.png",
+            "ascent": 7,
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE116"
+            ],
+            "file": "font/icon/sub.png",
+            "ascent": 7,
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE117"
+            ],
+            "file": "font/icon/default.png",
+            "ascent": 7,
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE118"
+            ],
+            "file": "font/icon/discord.png",
+            "ascent": 9,
+            "height": 13,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE119"
+            ],
+            "file": "font/icon/twitch.png",
+            "ascent": 9,
+            "height": 12,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE120"
+            ],
+            "file": "font/icon/error_red.png",
+            "ascent": 7,
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE121"
+            ],
+            "file": "font/gui/top_logo_1.png",
+            "ascent": 53,
+            "height": 64,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE122"
+            ],
+            "file": "font/gui/top_logo_2.png",
+            "ascent": 53,
+            "height": 64,
+            "type": "bitmap"
+        },
+
+        
+
+        {
+            "chars": [
+                "\uE123"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": -1,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE124"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": 0,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE125"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": 2,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE126"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": 6,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE127"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": 14,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE128"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": 30,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE129"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": 62,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE130"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": 126,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE131"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": 254,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE132"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": 510,
+            "type": "bitmap"
+        },
+
+        {
+            "chars": [
+                "\uE133"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": -3,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE134"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": -4,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE135"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": -6,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE136"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": -10,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE137"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": -18,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE138"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": -34,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE139"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": -66,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE140"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": -130,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE141"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": -258,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE142"
+            ],
+            "file": "font/misc/null.png",
+            "ascent": -32768,
+            "height": -514,
+            "type": "bitmap"
+        },
+
+        {
+            "chars": [
+                "\uE143"
+            ],
+            "file": "font/icon/misc/backplate_one.png",
+            "ascent": 9,
+            "height": 12,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE144"
+            ],
+            "file": "font/icon/misc/backplate_two.png",
+            "ascent": 9,
+            "height": 12,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE145"
+            ],
+            "file": "font/icon/misc/backplate_three.png",
+            "ascent": 9,
+            "height": 12,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE146"
+            ],
+            "file": "font/gui/death.png",
+            "ascent": 15,
+            "height": 32,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE147"
+            ],
+            "file": "font/gui/container/settings.png",
+            "ascent": 13,
+            "height": 256,
+            "type": "bitmap"
+        }
+    ]
+}

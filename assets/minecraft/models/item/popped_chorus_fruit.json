@@ -1,0 +1,50 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/popped_chorus_fruit"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1000
+            },
+            "model": "item/empty"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "item/switcher_on"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "item/switcher_off"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003
+            },
+            "model": "item/switcher_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004
+            },
+            "model": "item/ring_first"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005
+            },
+            "model": "item/ring_second"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006
+            },
+            "model": "item/ring_third"
+        }
+    ]
+}

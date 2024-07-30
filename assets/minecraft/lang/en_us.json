@@ -1,0 +1,17 @@
+{
+    "deathScreen.title": "",
+    "deathScreen.score": "",
+    "deathScreen.score.value": "",
+
+    "item.modoru.volleyball": "Volley ball",
+    "item.modoru.oak_stump": "Oak Stump",
+
+    "death.attack.frozen.player": "froze to death, fighting",
+
+    "action.light_change.enter.title": "Rotate the mouse wheel",
+    "action.light_change.enter.subtitle": "Press Shift + F to exit",
+    "action.light_change.level.title": "Level ",
+    "action.light_change.level.subtitle": "Press Shift + F to exit",
+    "action.light_change.exit.title": "Exit from editing...",
+    "action.light_change.exit.subtitle": ""
+}

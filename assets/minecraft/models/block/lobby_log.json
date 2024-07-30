@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+      "end": "minecraft:block/lobby_wood_top",
+      "side": "minecraft:block/lobby_wood_side"
+    }
+  }
