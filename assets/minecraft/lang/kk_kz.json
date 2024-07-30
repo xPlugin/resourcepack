@@ -1,0 +1,17 @@
+{
+    "deathScreen.title": "",
+    "deathScreen.score": "",
+    "deathScreen.score.value": "",
+
+    "item.modoru.volleyball": "Волейбол добы",
+    "item.modoru.oak_stump": "Емен діңі",
+
+    "death.attack.frozen.player": "төбелесіп жатып қатып қалды",
+
+    "action.light_change.enter.title": "Тінтуір дөңгелегін айналдырыңыз",
+    "action.light_change.enter.subtitle": "Басыңыз Shift + F шығу үшін",
+    "action.light_change.level.title": "Деңгейі ",
+    "action.light_change.level.subtitle": "Басыңыз Shift + F шығу үшін",
+    "action.light_change.exit.title": "Өңдеуден шығу...",
+    "action.light_change.exit.subtitle": ""
+}
