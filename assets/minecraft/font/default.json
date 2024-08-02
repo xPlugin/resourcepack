@@ -436,6 +436,15 @@
             "ascent": 13,
             "height": 256,
             "type": "bitmap"
+        },
+        {
+            "chars": [
+                "\uE147"
+            ],
+            "file": "font/gui/eye.png",
+            "ascent": 7,
+            "height": 64,
+            "type": "bitmap"
         }
     ]
 }

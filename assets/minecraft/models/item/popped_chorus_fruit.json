@@ -45,6 +45,12 @@
                 "custom_model_data": 1006
             },
             "model": "item/ring_third"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007
+            },
+            "model": "item/star"
         }
     ]
 }
