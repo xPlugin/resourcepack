@@ -9,6 +9,8 @@
 
     "death.attack.frozen.player": "замёрз насмерть, сражаясь с",
 
+    "player.self": "я",
+
     "action.light_change.enter.title": "Вращайте колёсико мыши",
     "action.light_change.enter.subtitle": "Нажмите Shift + F для выхода",
     "action.light_change.level.title": "Уровень ",

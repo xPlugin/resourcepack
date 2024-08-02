@@ -9,6 +9,8 @@
 
     "death.attack.frozen.player": "замерз на смерть, борючись з",
 
+    "player.self": "я",
+
     "action.light_change.enter.title": "Крутіть коліщатко миші",
     "action.light_change.enter.subtitle": "Натисніть Shift + F для виходу",
     "action.light_change.level.title": "Рівень ",

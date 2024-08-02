@@ -9,6 +9,8 @@
 
     "death.attack.frozen.player": "froez 2 death, fighting",
 
+    "player.self": "kittn",
+
     "action.light_change.enter.title": "Rotate da mouse wheel",
     "action.light_change.enter.subtitle": "Prez Shif + F 2 exit",
     "action.light_change.level.title": "Level ",
