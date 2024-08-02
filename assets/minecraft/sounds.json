@@ -86,5 +86,12 @@
         "sounds": [
             "custom/entity/ball/punch"
         ]
+    },
+
+    "custom.misc.screamer": {
+        "category": "music",
+        "sounds": [
+            "custom/misc/screamer"
+        ]
     }
 }

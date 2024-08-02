@@ -439,10 +439,10 @@
         },
         {
             "chars": [
-                "\uE147"
+                "\uE148"
             ],
             "file": "font/gui/eye.png",
-            "ascent": 7,
+            "ascent": 30,
             "height": 64,
             "type": "bitmap"
         }
