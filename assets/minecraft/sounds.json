@@ -89,9 +89,16 @@
     },
 
     "custom.misc.screamer": {
-        "category": "music",
+        "category": "master",
         "sounds": [
             "custom/misc/screamer"
+        ]
+    },
+
+    "custom.player.fainting_fall": {
+        "category": "master",
+        "sounds": [
+            "custom/player/fainting_fall"
         ]
     }
 }
