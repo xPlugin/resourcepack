@@ -1,0 +1,29 @@
+name: Pack resourcepack
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up JDK 21
+      uses: actions/setup-java@v4
+      with:
+        java-version: '21'
+        distribution: 'oracle'
+    
+    - name: Zip resource pack
+      run: java -jar PackBuild-1.0-all.jar xMain.zip
+
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: pack-artifact
+        path: xMain.zip
