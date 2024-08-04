@@ -20,7 +20,7 @@ jobs:
         distribution: 'oracle'
     
     - name: Zip resource pack
-      run: java -jar PackBuild-1.0-all.jar xMain.zip
+      run: java -jar PackBuilder-1.0-all.jar xMain.zip
 
     - name: Upload Artifact
       uses: actions/upload-artifact@v2
