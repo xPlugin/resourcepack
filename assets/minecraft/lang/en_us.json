@@ -12,6 +12,8 @@
 
     "player.self": "i",
 
+    "sleep.sweet_dreams": "Sweet dreams",
+
     "action.light_change.enter.title": "Rotate the mouse wheel",
     "action.light_change.enter.subtitle": "Press Shift + F to exit",
     "action.light_change.level.title": "Level ",

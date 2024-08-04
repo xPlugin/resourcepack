@@ -12,6 +12,8 @@
 
     "player.self": "я",
 
+    "sleep.sweet_dreams": "Сладких снов",
+
     "action.light_change.enter.title": "Вращайте колёсико мыши",
     "action.light_change.enter.subtitle": "Нажмите Shift + F для выхода",
     "action.light_change.level.title": "Уровень ",
