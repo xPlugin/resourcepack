@@ -22,5 +22,14 @@
     "action.light_change.level.title": "Уровень ",
     "action.light_change.level.subtitle": "Нажмите Shift + F для выхода",
     "action.light_change.exit.title": "Выход из редактирования...",
-    "action.light_change.exit.subtitle": ""
+    "action.light_change.exit.subtitle": "",
+
+    "command.ignore.now_ignoring": "Вы добавили игрока %1$s в чёрный список.",
+    "command.ignore.already_ignored": "Вы уже добавили игрока %1$s в чёрный список.",
+    "command.ignore.not_ignored": "Игрокъ не в чёрном списке.",
+    "command.ignore.unignored": "Вы удалили игрока %1$s из чёрного списка.",
+    "command.ignore.ignored_send": "Вы в чёрном списке игрока, и не можете отправить ему сообщение!",
+    "command.ignore.ignored_receive": "Игрок находится в чёрном списке.",
+    
+    "chat.blocked_message": "[заблокированное сообщение]"
 }
