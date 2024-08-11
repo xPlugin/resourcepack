@@ -51,6 +51,12 @@
                 "custom_model_data": 1007
             },
             "model": "item/star"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1008
+            },
+            "model": "item/sweet_berry_pie"
         }
     ]
 }
