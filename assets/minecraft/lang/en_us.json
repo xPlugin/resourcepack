@@ -24,10 +24,10 @@
     "action.light_change.exit.title": "Exit from editing...",
     "action.light_change.exit.subtitle": "",
 
-    "command.ignore.now_ignoring": "You added %1$s to blacklist.",
-    "command.ignore.already_ignored": "Player %1$s already blacklisted.",
+    "command.ignore.now_ignoring": "You added %s to blacklist.",
+    "command.ignore.already_ignored": "Player %s already blacklisted.",
     "command.ignore.not_ignored": "Player is not blacklisted.",
-    "command.ignore.unignored": "Removed %1$s from blacklist.",
+    "command.ignore.unignored": "Removed %s from blacklist.",
     "command.ignore.ignored_send": "You can't send message to player, because you are in blacklist!",
     "command.ignore.ignored_receive": "Player in blacklist, and you can't send them message!",
     

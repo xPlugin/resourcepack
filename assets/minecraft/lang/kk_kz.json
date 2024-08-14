@@ -24,8 +24,8 @@
     "action.light_change.exit.title": "Өңдеуден шығу...",
     "action.light_change.exit.subtitle": "",
 
-    "command.ignore.now_ignoring": "Сіз %1$s ойыншысын қара тізімге қостыңыз.",
-    "command.ignore.already_ignored": "%1$s ойыншысы әлдеқашан қара тізімге енгізілген!",
+    "command.ignore.now_ignoring": "Сіз %s ойыншысын қара тізімге қостыңыз.",
+    "command.ignore.already_ignored": "%s ойыншысы әлдеқашан қара тізімге енгізілген!",
     "command.ignore.not_ignored": "Ойыншы қара тізімде жоқ.",
     "command.ignore.unignored": "Ойыншыны қара тізімнен алып тастадыңыз.",
     "command.ignore.ignored_send": "Сіз ойыншының қара тізіміндесіз және оған хабарлама жібере алмайсыз!",

@@ -24,10 +24,10 @@
     "action.light_change.exit.title": "Exit frum editin...",
     "action.light_change.exit.subtitle": "",
 
-    "command.ignore.now_ignoring": "u blokd %1$s.",
-    "command.ignore.already_ignored": "kat %1$s already blokd.",
+    "command.ignore.now_ignoring": "u blokd %s.",
+    "command.ignore.already_ignored": "kat %s already blokd.",
     "command.ignore.not_ignored": "kitten not blokd!",
-    "command.ignore.unignored": "removd blok from %1$s!!",
+    "command.ignore.unignored": "removd blok from %s$s!!",
     "command.ignore.ignored_send": "dis kat blokd you((",
     "command.ignore.ignored_receive": "kat blokd! u can",
     
