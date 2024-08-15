@@ -23,6 +23,8 @@
     "action.light_change.level.subtitle": "Нажмитѣ Shift + F для выхода",
     "action.light_change.exit.title": "Выходъ из рѣдактированiя...",
     "action.light_change.exit.subtitle": "",
+    "action.afk.enter": "Вы вошли въ режимъ афкъ",
+    "action.afk.exit": "Вы покинули режимъ афкъ",
 
     "command.ignore.now_ignoring": "Вы добавили игрока %s въ черный списокъ.",
     "command.ignore.already_ignored": "Вы уже добавили игрока %s въ черный списокъ.",

@@ -23,13 +23,15 @@
     "action.light_change.level.subtitle": "Prez Shif + F 2 exit",
     "action.light_change.exit.title": "Exit frum editin...",
     "action.light_change.exit.subtitle": "",
+    "action.afk.enter": "u now afk :(",
+    "action.afk.exit": "u again online!",
 
     "command.ignore.now_ignoring": "u blokd %s.",
     "command.ignore.already_ignored": "kat %s already blokd.",
     "command.ignore.not_ignored": "kitten not blokd!",
     "command.ignore.unignored": "removd blok from %s$s!!",
     "command.ignore.ignored_send": "dis kat blokd you((",
-    "command.ignore.ignored_receive": "kat blokd! u can",
+    "command.ignore.ignored_receive": "kat blokd! u cant dm them!",
     
     "chat.blocked_message": "[blokd chitcat]"
 }

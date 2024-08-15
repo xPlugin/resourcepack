@@ -23,6 +23,8 @@
     "action.light_change.level.subtitle": "Басыңыз Shift + F шығу үшін",
     "action.light_change.exit.title": "Өңдеуден шығу...",
     "action.light_change.exit.subtitle": "",
+    "action.afk.enter": "Сіз афк режиміне кірдіңіз",
+    "action.afk.exit": "Сіз афк режимінен шықтыңыз",
 
     "command.ignore.now_ignoring": "Сіз %s ойыншысын қара тізімге қостыңыз.",
     "command.ignore.already_ignored": "%s ойыншысы әлдеқашан қара тізімге енгізілген!",

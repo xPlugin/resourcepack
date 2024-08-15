@@ -23,6 +23,8 @@
     "action.light_change.level.subtitle": "Press Shift + F to exit",
     "action.light_change.exit.title": "Exit from editing...",
     "action.light_change.exit.subtitle": "",
+    "action.afk.enter": "You entered in afk mode",
+    "action.afk.exit": "You exited afk mode",
 
     "command.ignore.now_ignoring": "You added %s to blacklist.",
     "command.ignore.already_ignored": "Player %s already blacklisted.",
